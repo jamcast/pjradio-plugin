@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://sdstechnologies.com/jamcast/plugin/manifest/2.0">
+	<providerID>{DED7C548-120C-4482-8DED-FC80D069F2DE}</providerID>
+	<name>Pearl Jam Radio</name>
+	<description>Studio tracks, b-sides and concert recordings from Pearl Jam 24/7.</description>
+	<publisherName>Software Development Solutions, Inc.</publisherName>
+	<publisherUrl>http://getjamcast.com</publisherUrl>
+	<iconResourceName>Jamcast.Plugins.PearlJamRadio.sirius_xm_pearl_jam_radio.png</iconResourceName>
+	<assemblyFileName>Jamcast.Plugins.PearlJamRadio.dll</assemblyFileName>
+</plugin>
